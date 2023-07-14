@@ -1,11 +1,11 @@
 
 
-@media (min-width: 700px) {
+@media (min-width: 1000px) {
     
     .section {
         position: relative;
         width: 100%;
-        height: min(86vh, calc(100vh - 100px));
+        height: fit-content;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -64,13 +64,14 @@
 }
 
 
-@media (max-width: 701px) {
+@media (max-width: 1000px) {
     
     .section {
         padding-top: 100px;
         position: relative;
         width: 100%;
         min-height: min(86vh, calc(100vh - 100px));
+        height: fit-content;
         display: flex;
         flex-direction: column;
         align-items: center;
