@@ -1,0 +1,27 @@
+.references-container {
+    padding: 100px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: min(max(20px, calc(10px + 2vw)), 90px);
+}
+
+.references-container .references-title {
+    text-align: center;
+    font-size: 1em;
+}
+
+.references-container a {
+    text-align: center;
+    font-size: 0.8em;
+    color: white;
+    transition: 0.3s;
+}
+
+.references-container a:hover {
+    color: #981e32;
+}
+
+

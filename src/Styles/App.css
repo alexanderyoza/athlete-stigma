@@ -1,0 +1,13 @@
+.App-Container {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App {
+  width:  100vw;
+  min-width: 350px;
+  max-width: 2000px;
+  min-height: min(86vh, calc(100vh - 100px));
+}
