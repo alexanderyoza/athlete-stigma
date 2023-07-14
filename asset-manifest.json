@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/athlete-stigma/static/css/main.06d2b795.css",
+    "main.js": "/athlete-stigma/static/js/main.589e0c18.js",
+    "static/media/background.png": "/athlete-stigma/static/media/background.2ace8500d746f4627bc0.png",
+    "static/media/stigma.png": "/athlete-stigma/static/media/stigma.0eecbe001332645d6ae7.png",
+    "static/media/wrongstigma.png": "/athlete-stigma/static/media/wrongstigma.042b928c8c82ecdb92ab.png",
+    "static/media/what.png": "/athlete-stigma/static/media/what.bae5ea0765c80f0179db.png",
+    "static/media/References.pdf": "/athlete-stigma/static/media/References.dfb06d3968480a137430.pdf",
+    "static/media/whystigma.png": "/athlete-stigma/static/media/whystigma.116800da2e852840e0fe.png",
+    "static/media/back.png": "/athlete-stigma/static/media/back.63767faeee2e931665c1.png",
+    "index.html": "/athlete-stigma/index.html",
+    "main.06d2b795.css.map": "/athlete-stigma/static/css/main.06d2b795.css.map",
+    "main.589e0c18.js.map": "/athlete-stigma/static/js/main.589e0c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d2b795.css",
+    "static/js/main.589e0c18.js"
+  ]
+}
