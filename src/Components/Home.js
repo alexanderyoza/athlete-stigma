@@ -44,17 +44,24 @@ function Home() {
                     </div>
                     <div className='landing-overlay'>
                         <div className='overlay-container'>
-                            <div className='landing-overlay-text'>
-                                The Stigma Ends Now
+                            <div className='overlay-hooks'>
+                                <div className='landing-overlay-text'>
+                                    The Stigma Ends Now
+                                </div>
+                                <div className='landing-overlay-request-container' onClick={
+                                    () => {
+                                        window.scrollTo({
+                                            top: contentRef.current.getBoundingClientRect().top - window.innerHeight * 0.13,
+                                            behavior: 'smooth',
+                                        })
+                                    }}>
+                                    Learn More
+                                </div>
                             </div>
-                            <div className='landing-overlay-request-container' onClick={
-                                () => {
-                                    window.scrollTo({
-                                        top: contentRef.current.getBoundingClientRect().top - window.innerHeight * 0.13,
-                                        behavior: 'smooth',
-                                    })
-                                }}>
-                                Learn More
+                            <div className='overlay-credits'>
+                                <div>
+                                    website created by Alex Yoza
+                                </div>
                             </div>
                         </div>
                     </div>
