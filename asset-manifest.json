@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/athlete-stigma/static/css/main.39d7d8fa.css",
-    "main.js": "/athlete-stigma/static/js/main.589e0c18.js",
+    "main.css": "/athlete-stigma/static/css/main.3802e08b.css",
+    "main.js": "/athlete-stigma/static/js/main.9711837b.js",
     "static/media/background.png": "/athlete-stigma/static/media/background.2ace8500d746f4627bc0.png",
     "static/media/stigma.png": "/athlete-stigma/static/media/stigma.0eecbe001332645d6ae7.png",
     "static/media/wrongstigma.png": "/athlete-stigma/static/media/wrongstigma.042b928c8c82ecdb92ab.png",
@@ -10,11 +10,11 @@
     "static/media/whystigma.png": "/athlete-stigma/static/media/whystigma.116800da2e852840e0fe.png",
     "static/media/back.png": "/athlete-stigma/static/media/back.63767faeee2e931665c1.png",
     "index.html": "/athlete-stigma/index.html",
-    "main.39d7d8fa.css.map": "/athlete-stigma/static/css/main.39d7d8fa.css.map",
-    "main.589e0c18.js.map": "/athlete-stigma/static/js/main.589e0c18.js.map"
+    "main.3802e08b.css.map": "/athlete-stigma/static/css/main.3802e08b.css.map",
+    "main.9711837b.js.map": "/athlete-stigma/static/js/main.9711837b.js.map"
   },
   "entrypoints": [
-    "static/css/main.39d7d8fa.css",
-    "static/js/main.589e0c18.js"
+    "static/css/main.3802e08b.css",
+    "static/js/main.9711837b.js"
   ]
 }
